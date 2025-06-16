@@ -56,6 +56,9 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://n
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio",DAZN1 France
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten7/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio",DAZN Portugal FIFA Mundial de Clubes
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten18/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio",DAZN1 DE
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten26/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
@@ -112,6 +115,9 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://n
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",SporTV BR
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/ddy6/premium78/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",DAZN Portugal FIFA Mundial de Clubes
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten18/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",SuperSport Premier League
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten14/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -175,6 +181,9 @@ https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://n
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",SporTV BR
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/ddy6/premium78/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",DAZN Portugal FIFA Mundial de Clubes
+https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten18/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio",SuperSport Premier League
 https://link.proxy.mfp/proxy/hls/manifest.m3u8?api_password=password&d=https://new.newkso.ru/wikihz/wikiten14/mono.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
